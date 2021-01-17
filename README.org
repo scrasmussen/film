@@ -6,3 +6,6 @@ A collection of items and thoughts related to the movement image.
 ** Projects
 - [ ] split up projects into their own repos
 [[https://github.com/scrasmussen/euler-enigma/tree/master/film-projects][Film Projects]]
+
+** Links
+[[https://www.criterion.com/current/posts/7209-movie-dates][Movie Dates]]
