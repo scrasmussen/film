@@ -1,0 +1,8 @@
+* Film
+A collection of items and thoughts related to the movement image.
+
+- [ ] add sites
+
+** Projects
+- [ ] split up projects into their own repos
+[[https://github.com/scrasmussen/euler-enigma/tree/master/film-projects][Film Projects]]
